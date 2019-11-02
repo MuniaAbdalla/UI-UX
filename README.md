@@ -1,2 +1,2 @@
 # UI-UX
-User Interfaces for mobile apps samples
+User Interfaces samples for mobile apps 
